@@ -8,5 +8,5 @@ base on 51singlechip
 1、Use the simplest stc89c52 single-chip microcomputer, you can also use the same packaging and foot of the single-chip instead.
 2、This project contains PCB engineering documents, led lighthouse templates, c language compilation procedures, and production instructions from the network, which are only for reference.LED lighthouse part is actually a LED lattice, according to the lattice to connect good, arbitrary shape.
 ![IMG_20200518_140608.jpg](https://github.com/pp55m/LED-Canton-Tower-/blob/master/IMG_20200518_140608.jpg)
+
 ![展示视频.mp4](https://github.com/pp55m/LED-Canton-Tower-/blob/master/%E5%B1%95%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
-![%E5%B1%95%E7%A4%BA%E8%A7%86%E9%A2%91.mp4](https://github.com/pp55m/LED-Canton-Tower-/blob/master/%E5%B1%95%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
